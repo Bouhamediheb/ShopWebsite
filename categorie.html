@@ -54,6 +54,7 @@
 							<div class="up-item">
 								<div class="shopping-card">
 									<i class="flaticon-bag"></i>
+									<span id="cartCount">0</span>
 								</div>
 								<a href="panierjs.html">Votre Panier</a>
 							</div>
@@ -71,15 +72,15 @@
 					<li><a href="femme.html">Femme</a></li>
 					<li><a href="homme.html">Homme</a></li>
 					<li><a href="" onclick="alert('En cours !!')">Enfant</a></li>
-					<li><a href="#">Chaussures</a>
+					<li><a href="#/">Chaussures</a>
 						<ul class="sub-menu">
-							<li><a href="#" onclick="alert('En cours !!')" >Espadries</a></li>
-							<li><a href="#" onclick="alert('En cours !!')" >Sandals</a></li>
-							<li><a href="#" onclick="alert('En cours !!')">Bottes</a></li>
+							<li><a href="#/" onclick="alert('En cours !!')" >Espadries</a></li>
+							<li><a href="#/" onclick="alert('En cours !!')" >Sandals</a></li>
+							<li><a href="#/" onclick="alert('En cours !!')">Bottes</a></li>
 							
 						</ul>
 					</li>
-					<li><a href="#">Aide Shopping !</a>
+					<li><a href="#/">Aide Shopping !</a>
 						<ul class="sub-menu">
 							<li><a href="categorie.html">Recherche Détaillée </a></li>
 						</ul>
@@ -114,20 +115,20 @@
 					<div class="filter-widget">
 						<h2 class="fw-title">Par Categories</h2>
 						<ul class="category-menu">
-							<li><a href="#">Vêtements Femmes</a>
+							<li><a href="#/">Vêtements Femmes</a>
 								<ul class="sub-menu">
-									<li><a href="#">Jupes <span>(12)</span></a></li>
-									<li><a href="#">Robe<span>(56)</span></a></li>
-									<li><a href="#">Pantalons<span>(36)</span></a></li>
+									<li><a href="#/">Jupes <span>(12)</span></a></li>
+									<li><a href="#/">Robe<span>(56)</span></a></li>
+									<li><a href="#/">Pantalons<span>(36)</span></a></li>
 								</ul>
 							</li>
-							<li><a href="#">Vêtements Hommes</a>
+							<li><a href="#/">Vêtements Hommes</a>
 								<ul class="sub-menu">
-									<li><a href="#">Chemises <span>(20)</span></a></li>
-									<li><a href="#">Pantalons<span>(33)</span></a></li>
-									<li><a href="#">Vestes<span>(10)</span></a></li>
+									<li><a href="#/">Chemises <span>(20)</span></a></li>
+									<li><a href="#/">Pantalons<span>(33)</span></a></li>
+									<li><a href="#/">Vestes<span>(10)</span></a></li>
 								</ul></li>
-							<li><a href="#" onclick="alert('En cours')">Enfants</a></li>
+							<li><a href="#/" onclick="alert('En cours')">Enfants</a></li>
 							
 						</ul>
 					</div>
@@ -231,8 +232,8 @@
 									<div class="tag-sale">PROMO!</div>
 									<img src="./img/product/1.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()">AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -246,8 +247,8 @@
 								<div class="pi-pic">
 									<img src="./img/product/2.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()">AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -261,8 +262,8 @@
 								<div class="pi-pic">
 									<img src="./img/product/3.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()">AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -276,8 +277,8 @@
 								<div class="pi-pic">
 									<img src="./img/product/4.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()"> AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -291,8 +292,8 @@
 								<div class="pi-pic">
 									<img src="./img/product/5.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()">AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -306,8 +307,8 @@
 								<div class="pi-pic">
 									<img src="./img/product/6.jpg" alt="">
 									<div class="pi-links">
-										<a href="#" class="add-card"><i class="flaticon-bag"></i><span>AJOUTER AU PANIER</span></a>
-										<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+										<a href="#/" class="add-card"><i class="flaticon-bag"></i><span onclick="addtoCartNumber()">AJOUTER AU PANIER</span></a>
+										<a href="#/" class="wishlist-btn"><i class="flaticon-heart"></i></a>
 									</div>
 								</div>
 								<div class="pi-text">
@@ -362,7 +363,7 @@
 							<div class="lp-content">
 								<h6>Que Porter avec mon mask(Covid19) ?</h6>
 								<span>4/11/2021</span>
-								<a href="#" class="readmore">Lire la suite</a>
+								<a href="#/" class="readmore">Lire la suite</a>
 							</div>
 						</div>
 						<div class="lp-item">
@@ -370,7 +371,7 @@
 							<div class="lp-content">
 								<h6>Populaire Cet Année</h6>
 								<span>4/11/2021</span>
-								<a href="#" class="readmore">Lire la suite</a>
+								<a href="#/" class="readmore">Lire la suite</a>
 							</div>
 						</div>
 					</div>
@@ -432,6 +433,6 @@
 <script src="js/jquery.zoom.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/main.js"></script>
-
+<script src="js/script.js"></script>
 </body>
 </html>

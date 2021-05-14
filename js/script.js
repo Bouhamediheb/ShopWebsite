@@ -117,7 +117,6 @@ var addtoCartNumber = function () {
 
 
 
-/*
 
 document.addEventListener("DOMContentLoaded", function(event) 
 { 
@@ -139,4 +138,3 @@ function total_Somme(){
     $('.total').text(sum);
 }
 
-*/
