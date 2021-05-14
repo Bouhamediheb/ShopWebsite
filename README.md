@@ -45,6 +45,8 @@ Version Avec les liens accessible [Ici] ( ) <br>
 
 • Page Contact.html (page Contact simulation contact-Formulaire et Implementation G-Map en JavascriptModule)
 
+• Page Login.html (page Login simulation authentification compte utilisateur)
+
 • Menu déroulant avec Javascript 
 
 • Buttons  Add To Cart _ Anglais _ : Incrémente le compteur des articles dans le panier (FrontEnd Only)
