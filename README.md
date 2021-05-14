@@ -4,22 +4,28 @@
   
   
 # Infos:
-Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web.
+Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web. <br>
 Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intégrant nos connaissances en HTML/CSS <br>
 **Certaine parties de ce siteweb on été déja construite durant mon apprentissage en tant que FullStack Developer**
 
+## Compétences Acquises :
+
+• Fullstack Web Developer Bootcamp - Udemy
+
+• The Complete 2021 Web Development Bootcamp
+
+• Web Design for Beginners: Real World Coding in HTML & CSS .
+
 ## Images Sources :
 Sources des photos :<br>
+
 • 2 backgrounds Models sur Google
 • 6 Photos de models Homme/Femme de Hammadi Abid
 
 ## Tools & Integrations :
 Version Avec les liens accessible [Ici] ( ) <br>
+
 • Intégration Bootstrap
-
-• FULLSTACK WEB DEV BOOTCAMP
-
-• FULL WEB DESIGN BOOTCAMP .
 
 • Font Awesome
 
@@ -53,7 +59,7 @@ Version Avec les liens accessible [Ici] ( ) <br>
 
 • Carrousel avec 2 articles avec button AddToCart fonctionel 'Hero Slider'
 
-• Carrousel avec 5 articles avec button AddToCart fonctionel 'Own Carrousel'
+• Carrousel avec 5 articles avec button AddToCart fonctionel 'Owl Carrousel'
 
 ## Page Panier Version 1:
 
