@@ -1,12 +1,12 @@
 # Projet Web _ Examen _ Bouhamed Iheb
-  Enseignant : Mr Bouaziz Wajdi
+  Enseignant : Mr Bouaziz Wajdi <br>
   Matière : Developpement Web
   
   
 # Infos:
 Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web.
-Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intégrant nos connaissances en HTML/CSS
-Informations sur projet : Une partie de ce projet a été déja construite en avant durant un cours que je l'ai eu sur Udemy.
+Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intégrant nos connaissances en HTML/CSS <br>
+**Certaine parties de ce siteweb on été déja construite durant mon apprentissage en tant que FullStack Developer**
 
 ## Images Sources :
 Sources des photos :<br>
@@ -55,7 +55,7 @@ Version Avec les liens accessible [Ici] ( ) <br>
 
 ## Page Panier Version 1:
 
-Cette page consiste à exploiter des fonctions JavaScript pour simuler un panier d'un siteweb.
+Cette page consiste à exploiter des fonctions JavaScript pour simuler un panier d'un siteweb.<br>
 **Etapes** : <br>
 <ol>
   <li> Choisir un produit de la liste déroulante </li>
@@ -63,7 +63,6 @@ Cette page consiste à exploiter des fonctions JavaScript pour simuler un panier
   <li> Cliquer sur Ajouter </li>
   <li> Valider par le button 'Paiement' </li>
 </ol>
-
 
 
 NB: Il y'a un contrôle sur le input Quantité : <br>
@@ -74,7 +73,7 @@ Par défaut , le button est _disabled_ .
 
 ## Page Panier Version 2 :
 
-Cette page consiste à exploiter des fonctions jQuery pour simuler un panier d'un siteweb.
+Cette page consiste à exploiter des fonctions jQuery pour simuler un panier d'un siteweb. <br>
 **Etapes** : <br>
 <ol>
   <li> Choisir la quantité voulue devant chaque produit </li>
@@ -82,7 +81,14 @@ Cette page consiste à exploiter des fonctions jQuery pour simuler un panier d'u
   <li> Valider par le button 'Valider Vos Achat' </li>
 </ol>
 
+
+NB: Il y'a un contrôle sur le input Quantité : <br>
+  - Impossible d'entrer une valeur négative < 0 
+  - Impossible de taper une valeur non-numérique 
+
+
+
 ## Roadmap :
-Implementation du même site web avec framework NodeJS & ExpressJS --> Coming Soon !
+Implementation du même site web avec framework NodeJS & ExpressJS --> Bientôt.
 
 
