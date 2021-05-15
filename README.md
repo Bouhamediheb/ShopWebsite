@@ -2,8 +2,11 @@
   Enseignant : Mr Bouaziz Wajdi <br>
   Matière : Developpement Web
   
-  
-# Infos:
+# Consultation :
+
+[Accéder à mon projet](https://ihebbouhamed.github.io/static_webexam/home.html)
+
+# Infos :
 Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web. <br>
 Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intégrant nos connaissances en HTML/CSS <br>
 **Certaine parties de ce siteweb on été déja construite durant mon apprentissage en tant que FullStack Developer**
@@ -23,7 +26,7 @@ Sources des photos :<br>
 • 6 Photos de models Homme/Femme de Hammadi Abid
 
 ## Tools & Integrations :
-Version Avec les liens accessible [Ici] (https://ihebbouhamed.github.io/static_webexam/) <br>
+Version Avec les liens cliquables : [Cliquer ici ](https://ihebbouhamed.github.io/static_webexam/index.html) <br>
 
 • Intégration Bootstrap
 
