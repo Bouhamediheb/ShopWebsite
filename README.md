@@ -7,9 +7,9 @@
 [Accéder à mon projet](https://ihebbouhamed.github.io/static_webexam/home.html)
 
 # Infos :
-Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web. <br>
+Ceci est un projet dans le cadre d'un travail à la maison pour la matière développement Web. [ Examen Fin semestre] <br>
 Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intégrant nos connaissances en HTML/CSS <br>
-**Certaine parties de ce siteweb on été déja construite durant mon apprentissage en tant que FullStack Developer**
+**Certaine parties de ce siteweb ont été déja construite durant mon apprentissage en tant que FullStack Developer**
 
 ## Compétences Acquises :
 
