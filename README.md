@@ -22,7 +22,7 @@ Ce projet consiste a créer un site web Responsive avec BOOTSTRAP tout en intég
 ## Images Sources :
 Sources des photos :<br>
 
-• 2 backgrounds Models sur Google
+• 2 backgrounds Models sur Google <br>
 • 6 Photos de models Homme/Femme de Hammadi Abid
 
 ## Tools & Integrations :
@@ -46,7 +46,7 @@ Version Avec les liens cliquables : [Cliquer ici ](https://ihebbouhamed.github.i
 
 • Page Home.html (equivalente à index.html)
 
-• Page Hommme.html (page avec des articles pour hommes)
+• Page Homme.html (page avec des articles pour hommes)
 
 • Page Femme.html (page avec des articles pour femmes)
 
